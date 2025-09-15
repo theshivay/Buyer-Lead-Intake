@@ -31,19 +31,20 @@ A Next.js application for capturing, listing, and managing buyer leads with vali
 Create a `.env.local` file in the root directory with the following variables:
 
 ```
-# Database
-DATABASE_URL="file:./dev.db"
+# Database (Using SQLite for local development)
+DATABASE_URL="file:./prisma/dev.db"
 
 # NextAuth
 NEXTAUTH_URL="http://localhost:3000"
-NEXTAUTH_SECRET="your-nextauth-secret"
+NEXTAUTH_SECRET="this-is-a-development-secret-key-change-in-production"
 
-# Email (for magic links)
-EMAIL_SERVER_HOST="smtp.example.com"
+# Email (using SendGrid)
+EMAIL_SERVER_HOST="smtp.sendgrid.net"
 EMAIL_SERVER_PORT=587
-EMAIL_SERVER_USER="your-email@example.com"
-EMAIL_SERVER_PASSWORD="your-email-password"
-EMAIL_FROM="noreply@example.com"
+EMAIL_SERVER_USER="apikey"
+# Your SendGrid API key
+EMAIL_SERVER_PASSWORD="SENDGRID_API_KEY"
+EMAIL_FROM="your_email_id"
 ```
 
 ### Installation
