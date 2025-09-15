@@ -1,0 +1,11 @@
+fullName,email,phone,city,propertyType,bhk,purpose,budgetMin,budgetMax,timeline,source,notes,tags,status
+John Doe,john.doe@example.com,9876543210,Chandigarh,Apartment,2,Buy,5000000,7000000,0-3m,Website,"Looking for a 2BHK apartment in Sector 20, needs parking",urgent/follow-up,New
+Jane Smith,jane.smith@example.com,8765432109,Mohali,Villa,3,Buy,10000000,15000000,3-6m,Referral,"Interested in premium villas with garden, 3+ bedrooms required",premium/vip,Qualified
+Raj Kumar,raj.kumar@example.com,9988776655,Panchkula,Apartment,1,Rent,15000,25000,>6m,Call,"Student looking for small apartment, budget conscious",student/bachelor,New
+Priya Singh,priya.singh@gmail.com,7654321098,Chandigarh,Villa,4,Buy,20000000,30000000,0-3m,Website,"Looking for luxury villa with swimming pool, ready to move",luxury/ready-move,Contacted
+Amit Verma,amit.verma@company.com,8877665544,Zirakpur,Apartment,Studio,Rent,8000,12000,Exploring,WalkIn,"Fresh graduate, looking for studio apartment near IT park",budget/bachelor,New
+Nisha Sharma,nisha@example.org,7766554433,Mohali,Plot,,Buy,5000000,10000000,>6m,Other,"Wants to buy land for future construction, prefers corner plot",investment,Qualified
+Sanjay Gupta,sanjay.gupta@outlook.com,9900887766,Chandigarh,Office,,Rent,50000,100000,3-6m,Website,"Needs office space for startup, 10-15 employees",commercial/startup,Visited
+Anita Patel,anita.patel@gmail.com,8899776655,Panchkula,Retail,,Rent,80000,150000,0-3m,Call,"Looking for retail space in mall, for clothing store",commercial/retail,Negotiation
+Vikram Malhotra,vikram@business.com,9988776655,Chandigarh,Apartment,3,Buy,12000000,18000000,3-6m,Referral,"NRI client, looking for investment property, premium location",nri/investment,Contacted
+Meera Kapoor,meera.kapoor@example.com,7788990011,Zirakpur,Villa,4,Buy,25000000,35000000,0-3m,Website,"Looking for modern villa with smart home features",premium/luxury,Qualified
